@@ -33,9 +33,6 @@ FinBank app test
 - [Temas y Estilos](#-temas-y-estilos)
 - [Desarrollo](#-desarrollo)
 - [Testing](#-testing)
-- [Contribución](#-contribución)
-- [Autores](#-autores)
-- [Licencia](#-licencia)
 
 ---
 
